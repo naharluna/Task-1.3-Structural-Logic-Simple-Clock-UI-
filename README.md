@@ -8,7 +8,7 @@ The clock dynamically updates every second using JavaScript's `Date` object.
 
 ## 🌐 Live Demo
 
-[View Live]((https://clockang.netlify.app/))
+[Click Here to View Live](https://clockang.netlify.app/)
 
 ---
 
